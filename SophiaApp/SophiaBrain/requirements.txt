@@ -1,0 +1,16 @@
+requests
+virtualenv
+PyYAML
+SpeechRecognition
+click
+numpy
+pyttsx3
+wikipedia
+pyjokes
+pywhatkit
+psutil
+python-aiml
+pipwin
+Pyaudio
+axju-jokes
+aiml

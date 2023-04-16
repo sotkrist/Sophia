@@ -1,0 +1,14 @@
+todo_path: todo.txt
+lat_path: lat.txt
+error: error.txt
+lon_path: lon.txt
+timeOut: timeOut.txt
+ambient: ambient.txt
+exit_path: exit.txt
+reqIs: requestDownlanded.txt
+running: isRunning.txt
+startUp: std-startup.xml
+installReq: req.txt
+reqError: I can not install the required requirements, please make sure you have a windows operation system, also please contact with us with your problems.
+weather_url: http://api.openweathermap.org/data/2.5/weather?lat={}&lon={}&APPID=8f605c186309e3d8f60bb7b2f31ba75c&units=metric
+weather_msg: I found some information about the weather in your location, here they are. The temperature is at {} degrees and the humidity is {}%. It feels like {} degrees. Overall there are {}.
